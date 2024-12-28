@@ -44,4 +44,7 @@ print(sozluk.keys())
 print("\n")
 print("value---> valulaarı getirir")
 print(sozluk.values())
+print("\n")
+print("items---> itemları getirir")
+print(sozluk.items())
 
