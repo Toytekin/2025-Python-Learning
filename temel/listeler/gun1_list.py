@@ -34,7 +34,7 @@ print(list1)
 print("\n")
 print("Listede METHOTLAR")
 ## append ekleme
-list1.append("deneme")
+list1.append("Yeni eklenen eleman")
 print(list1)
 ## pop son elemanı kaldırma
 list1.pop()
@@ -44,3 +44,4 @@ print(list1)
 ## sıralama sort
 list4.sort()
 print(list4)
+
