@@ -31,3 +31,4 @@ while True:
 
 # Döngü bittiğinde programın sonlandığını belirten bir mesaj yazıyoruz.
 print("Program sona erdi.")
+
